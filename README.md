@@ -76,5 +76,10 @@ Contribute to this project :
 - Kudos to the open-source contributors who inspire us daily.
 - Special thanks to all the hands that have contributed to making this project what it is.
 
+
+## License
+This Power BI Cryptocurrency Analysis project is licensed under the MIT License.
+
+
 ## Conclusion 
   In conclusion, our Sign Language Translator powered by deep learning stands as a testament to the transformative potential of technology in fostering inclusivity. By breaking down communication barriers for the hearing-impaired, this innovative solution not only showcases the capabilities of deep learning but also paves the way for a more connected and understanding world.
